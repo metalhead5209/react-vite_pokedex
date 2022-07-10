@@ -1,0 +1,9 @@
+.Pokecard li {
+    list-style: none;
+   
+}
+
+.Pokecard {
+    border: 2px solid white;
+    width: 20em;
+}
