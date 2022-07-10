@@ -1,11 +1,9 @@
-.Pokecard li {
-    list-style: none;
-   
-}
-
 .Pokecard {
-    border: 4px inset rgb(223, 223, 223);
-    width: 15em;
-    box-shadow: rgba(232, 232, 235, 0.2) 0px 7px 29px 0px;
-    margin: 1em;
+  border: 4px inset rgb(223, 223, 223);
+  width: 15em;
+  box-shadow: rgba(232, 232, 235, 0.2) 0px 7px 29px 0px;
+  margin: 1em;
+  padding: 0.8em;
+  background-color: #2d3034;
+  border-radius: 5px;
 }
